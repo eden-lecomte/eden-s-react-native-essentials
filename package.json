@@ -1,0 +1,15 @@
+{
+  "name": "eden-s-react-native-essentials",
+  "displayName": "Eden's React Native Essentials",
+  "description": "Essential RN Extensions for VS Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "publisher.extensionName"
+  ]
+}
